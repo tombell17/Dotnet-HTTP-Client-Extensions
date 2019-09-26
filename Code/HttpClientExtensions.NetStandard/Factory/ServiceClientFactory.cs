@@ -1,4 +1,4 @@
-﻿using Framework.ClienteHttp.NetCore.Abstracciones;
+﻿using Framework.ClienteHttp.NetCore.Abstractions;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Threading;
